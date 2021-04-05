@@ -306,6 +306,10 @@
 		&__skills {
 			grid-template-columns: 1fr;
 		}
+
+		&__skill {
+			grid-template-columns: 40px 1fr;
+		}
 	}
 
 	.resume {
